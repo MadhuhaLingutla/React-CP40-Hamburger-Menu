@@ -1,0 +1,14 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.component-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.component-image {
+}
